@@ -1,4 +1,4 @@
-# Contributors
+﻿# Contributors
 
 - [Tanveer Ahmed](https://github.com/Tan66)
 - [Bayartsogt Erdenebat](https://github.com/BunnyMN)
@@ -12,6 +12,7 @@
 - [Jennifer Williams](https://github.com/Taljjaa)
 - [James S. Lee](https://github.com/sanghawk)
 - [Shahe Ansar](https://github.com/ShaheAnsar)
+- [Venkata Charanraj](https://github.com/venkata-charan)
 - [Andrew Hoverson](https://github.com/ahoverson)
 - [Bachir Amadou](https://github.com/BachAmadou/first-contributions)
 - [Andrew Albert](https://github.com/andyalbert)
